@@ -30,7 +30,6 @@ public class Main {
         System.out.println();
         System.out.println("Average Age = " + combinedAge/plist.size());
 
-
     }
 
 }
